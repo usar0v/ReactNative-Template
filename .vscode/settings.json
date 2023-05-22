@@ -1,0 +1,26 @@
+{
+  "javascript.validate.enable": false,
+  "editor.formatOnPaste": false,
+  "editor.formatOnSave": true,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.formatOnSave": false
+  },
+  "[json]": {
+    "editor.formatOnSave": false
+  },
+  "editor.codeActionsOnSave": {
+    // For ESLint
+    "source.fixAll.eslint": true
+  },
+  "svg.preview.background": "transparent",
+  "cSpell.words": [
+    "Formik",
+    "Persistor",
+    "Promocode",
+    "Promocodes",
+    "Sportsbook"
+  ]
+}
